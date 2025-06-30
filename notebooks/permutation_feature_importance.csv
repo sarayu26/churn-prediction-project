@@ -1,0 +1,44 @@
+Feature,Importance
+churn_reason_Attitude of support person,0.03931866572036909
+churn_reason_Competitor offered higher download speeds,0.034776437189496134
+churn_reason_Don't know,0.02455642299503198
+churn_reason_Competitor offered more data,0.019659332860184564
+churn_reason_Competitor had better devices,0.01902058197303056
+dependents,0.018878637331440774
+churn_reason_Competitor made better offer,0.018381831085876533
+contract_Two year,0.017175301632363416
+tenure_months,0.013910574875798465
+internet_service_Fiber optic,0.011923349893541546
+churn_reason_Price too high,0.010290986515259093
+churn_reason_Service dissatisfaction,0.008587650816181725
+payment_method_Electronic check,0.008516678495386853
+churn_reason_Product dissatisfaction,0.008516678495386842
+contract_One year,0.008090844570617484
+total_charges,0.00794889992902772
+churn_reason_Lack of self-service on Website,0.007239176721078844
+monthly_charges,0.007168204400283906
+churn_reason_Network reliability,0.006813342796309485
+partner,0.005393896380411667
+streaming_movies,0.004187366926898528
+streaming_tv,0.0039034776437189777
+cltv,0.003264726756564984
+churn_reason_Extra data charges,0.0030518097941802822
+churn_reason_Long distance charges,0.002625975869410946
+device_protection,0.002555003548616053
+churn_reason_Moved,0.0024840312278211706
+phone_service,0.0024130589070262775
+senior_citizen,0.0023420865862313844
+paperless_billing,0.0022711142654365025
+gender,0.001987224982256952
+multiple_lines,0.00191625266146207
+online_security,0.001916252661462059
+churn_reason_Limited range of services,0.0014904187366927113
+internet_service_No,0.001206529453513161
+payment_method_Mailed check,0.0010645848119233748
+churn_reason_Lack of affordable download/upload speed,0.0007806955287438244
+online_backup,0.0005677785663591673
+tech_support,0.00021291696238470159
+payment_method_Credit card (automatic),3.3306690738754695e-17
+churn_reason_Deceased,0.0
+churn_reason_Poor expertise of online support,0.0
+churn_reason_Poor expertise of phone support,0.0

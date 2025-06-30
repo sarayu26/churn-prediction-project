@@ -1,0 +1,44 @@
+Feature,Importance
+tenure_months,0.1075671466599318
+total_charges,0.09361771608927792
+monthly_charges,0.08712539002112375
+cltv,0.0641540772708235
+contract_Two year,0.04934649969985581
+payment_method_Electronic check,0.04079924996202343
+dependents,0.040503363075236276
+internet_service_Fiber optic,0.03973639716692843
+churn_reason_Competitor offered higher download speeds,0.03482857398648671
+churn_reason_Attitude of support person,0.03480812431694506
+churn_reason_Don't know,0.027883083977861052
+churn_reason_Competitor offered more data,0.026197058455342384
+churn_reason_Competitor made better offer,0.023260362415819996
+churn_reason_Product dissatisfaction,0.0221154323155092
+contract_One year,0.021196915272399402
+internet_service_No,0.02034691304923899
+churn_reason_Competitor had better devices,0.019217189022874136
+churn_reason_Network reliability,0.01692929356734476
+paperless_billing,0.015465087051971582
+online_security,0.015229078162487366
+churn_reason_Price too high,0.014992383226318073
+churn_reason_Lack of self-service on Website,0.014170430195729652
+tech_support,0.013717677469997587
+churn_reason_Service dissatisfaction,0.013530044959294553
+gender,0.01183079061058367
+partner,0.011695410820802077
+senior_citizen,0.009862196732897625
+online_backup,0.009618605933109942
+streaming_movies,0.009582516326486113
+churn_reason_Moved,0.009550200654676894
+device_protection,0.009481408150900933
+multiple_lines,0.009367274104940097
+churn_reason_Extra data charges,0.009104637271235522
+streaming_tv,0.008754673450752957
+churn_reason_Lack of affordable download/upload speed,0.008050917509892475
+payment_method_Credit card (automatic),0.006500164974627331
+churn_reason_Limited range of services,0.006287690934148382
+churn_reason_Long distance charges,0.006222164292044686
+payment_method_Mailed check,0.006047429922021987
+phone_service,0.004494490988580685
+churn_reason_Poor expertise of phone support,0.0035952903755503223
+churn_reason_Poor expertise of online support,0.002644654287287522
+churn_reason_Deceased,0.0005719952686393556

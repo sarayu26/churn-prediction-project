@@ -1,0 +1,6 @@
+*.db
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.pbix~
+.DS_Store
